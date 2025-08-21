@@ -47,42 +47,9 @@ num:
   Pt: 0
 ac: 12
 ---
-```meta-bind-button
-label: 🔻
-icon: ""
-hidden: true
-class: ""
-tooltip: ""
-id: hit
-style: default
-actions:
-  - type: js
-    file: "Extras/scripts/dnd.js"
-    args: {
-	    func: "decreaseHP",
-	    }
-```
-
-```meta-bind-button
-label: 🔺
-icon: ""
-hidden: true
-class: ""
-tooltip: ""
-id: heal
-style: default
-actions:
-  - type: js
-    file: "Extras/scripts/dnd.js"
-    args: {
-	    func: "increaseHP",
-	    }
-```
-
 > [!infobox|right] 
 > # Algaar Thornwood
-> `VIEW[!\[\[{name}.png\]\]][text(renderMarkdown)]`
->
+> ![](https://raw.githubusercontent.com/JakPik/DND_C2/refs/heads/Images/DND_c2/Images/Algaar.png)
 >
 > > [!infobox]+ **Senses**
 > > |Value| Type|

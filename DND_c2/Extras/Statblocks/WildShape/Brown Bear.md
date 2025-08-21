@@ -8,7 +8,7 @@ CR: "1"
 ```statblock
 layout: WildShape
 name: Brown Bear
-image: ![Brown Bear](https://i.pinimg.com/1200x/23/ba/4f/23ba4f14ff2c96244a6fb60b281a2dd1.jpg)
+image: https://raw.githubusercontent.com/JakPik/DND_C2/refs/heads/Images/DND_c2/Images/brown_bear.jpg
 ac: 11
 hp: 22
 cr: 1

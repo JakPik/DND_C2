@@ -8,7 +8,7 @@ CR: "1"
 ```statblock
 layout: WildShape
 name: Dire Wolf
-image: ![dire wolf](https://i.pinimg.com/1200x/30/d6/14/30d61421a3cef7f645acb3445c92c3bc.jpg)
+image: https://raw.githubusercontent.com/JakPik/DND_C2/refs/heads/Images/DND_c2/Images/dire_wolf.jpg
 ac: 14 (natural armor)
 hp: 37
 cr: 1

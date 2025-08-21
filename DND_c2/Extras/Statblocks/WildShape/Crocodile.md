@@ -8,7 +8,7 @@ CR: 1/2
 ```statblock
 layout: WildShape
 name: Crocodile
-image: ![crocodile](https://i.pinimg.com/1200x/88/04/c7/8804c7390032b8767cf0685d76b21bfd.jpg)
+image: https://raw.githubusercontent.com/JakPik/DND_C2/refs/heads/Images/DND_c2/Images/crocodile.jpg
 ac: 12 (natural armor)
 hp: 19
 cr: 1/2

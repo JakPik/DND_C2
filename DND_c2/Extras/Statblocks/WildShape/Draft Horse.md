@@ -8,7 +8,7 @@ CR: 1/4
 ```statblock
 layout: WildShape
 name: Draft Horse
-image: ![draft horse](https://i.pinimg.com/1200x/7c/ba/c4/7cbac4b1fdd7caa205d455172218d2f4.jpg)
+image: https://raw.githubusercontent.com/JakPik/DND_C2/refs/heads/Images/DND_c2/Images/draf_horse.jpg
 ac: 10
 hp: 19
 cr: 1/4

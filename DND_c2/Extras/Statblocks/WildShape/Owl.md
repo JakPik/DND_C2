@@ -8,7 +8,7 @@ CR: "0"
 ```statblock
 layout: WildShape
 name: Owl
-image: ![owl](https://i.pinimg.com/1200x/be/de/35/bede35b1ab6c48615433bdce13dd91c0.jpg)
+image: https://raw.githubusercontent.com/JakPik/DND_C2/refs/heads/Images/DND_c2/Images/owl.jpg
 ac: 11
 hp: 1
 cr: 0

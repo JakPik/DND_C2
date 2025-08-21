@@ -8,7 +8,7 @@ CR: 1/2
 ```statblock
 layout: WildShape
 name: Black Bear
-image: ![Black Bear](https://i.pinimg.com/1200x/f0/2c/0b/f02c0bfb7d89ceaffd3180100625af45.jpg)
+image: https://raw.githubusercontent.com/JakPik/DND_C2/refs/heads/Images/DND_c2/Images/black_bear.jpg
 ac: 11 (natural armor)
 hp: 19
 cr: 1/2

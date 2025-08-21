@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "9f466089eb09ac5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c8db899e2ac6f63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57b820fa111b3742",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game/Poznámky.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Poznámky"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b309b6eaee595db9",
+    "type": "split",
+    "children": [
+      {
+        "id": "663c622d0e9f1711",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3913d32b69f0de04",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5405ecdab4e07e81",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "05127371f3a6d8d1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5406d595e1329435",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ce3c10a6e461179",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0ea1a2b4bd4dbcf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Game/Quests/Předání zprávy od Lenninthona.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Předání zprávy od Lenninthona"
+            }
+          },
+          {
+            "id": "4c9962d1564105ab",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Game/Quests/Předání zprávy od Lenninthona.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Předání zprávy od Lenninthona"
+            }
+          },
+          {
+            "id": "01b880f643eb1c2d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e18b4f905ab947b6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Game/Quests/Předání zprávy od Lenninthona.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Předání zprávy od Lenninthona"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 314.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "57b820fa111b3742",
+  "lastOpenFiles": [
+    "Game/Characters.canvas",
+    "Game/Poznámky.md",
+    "Game/Quests/Předání zprávy od Lenninthona.md",
+    "Game/Players/Algaar Thornwood.md",
+    "Algaar.png",
+    "Extras/Images",
+    "Game/Players/Tohru.md",
+    "Game/Players/Sadosu.md",
+    "Game/Players/Lyba.md",
+    "Game/Players/Krag.md",
+    "Game/Locations/Elakdet.md",
+    "Game/Locations/Zipperdam.md",
+    "Game/NPCs/Zipperdamu/Karim.md",
+    "Game/NPCs/Elakdet/Kenta.md",
+    "Game/NPCs/Elakdet/Osama Okamota.md",
+    "Game/NPCs/Elakdet/Shin Okamota.md",
+    "Game/NPCs/Zipperdamu",
+    "Extras/Template - pages/NPC.md",
+    "Game/NPCs/Elakdet",
+    "Game/Story/Session 1.md",
+    "Game/Quests",
+    "Extras/Template - pages/Session.md",
+    "Extras/Template - pages/Location.md",
+    "Extras/Template - pages/Quest.md",
+    "Story/Session 3.md",
+    "Story/Session 4.md",
+    "Story/Session 2.md",
+    "Story/Session2.md",
+    "Session[object Promise].md",
+    "Story/.md",
+    "Extras/Template - pages/function.js",
+    "Some Word2024-12-27 135620.md",
+    "Extras/Template - pages",
+    "Game/Quest board.canvas",
+    "Extras",
+    "Extras/Template - insertions",
+    "Game/Story",
+    "Game/NPCs"
+  ]
+}

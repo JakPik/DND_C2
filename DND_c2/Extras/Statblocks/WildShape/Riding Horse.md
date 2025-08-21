@@ -8,7 +8,7 @@ CR: 1/4
 ```statblock
 layout: WildShape
 name: Riding Horse
-image: ![horse](https://i.pinimg.com/1200x/00/7f/8f/007f8fd952c9429d2b06bda7cb70e18a.jpg)
+image: https://raw.githubusercontent.com/JakPik/DND_C2/refs/heads/Images/DND_c2/Images/riding horse.jpg
 ac: 10
 hp: 13
 cr: 1/4

@@ -8,7 +8,7 @@ CR: 1/2
 ```statblock
 layout: WildShape
 name: Swarm of Insetcs
-image: ![swarm](https://i.pinimg.com/1200x/1b/ef/8e/1bef8e1c1183e0c674588d1bb009e653.jpg)
+image: https://raw.githubusercontent.com/JakPik/DND_C2/refs/heads/Images/DND_c2/Images/swarm_of_insects.jpg
 ac: 12 (natural armor)
 hp: 22
 cr: 1/2

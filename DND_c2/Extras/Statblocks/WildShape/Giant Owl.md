@@ -8,7 +8,7 @@ CR: 1/4
 ```statblock
 layout: WildShape
 name: Giant Owl
-image: ![giant owl](https://i.pinimg.com/1200x/a9/55/6d/a9556dc48177e4be39256642624236dd.jpg)
+image: https://raw.githubusercontent.com/JakPik/DND_C2/refs/heads/Images/DND_c2/Images/giant_owl.jpg
 ac: 12
 hp: 19
 cr: 1/4

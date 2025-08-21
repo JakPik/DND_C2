@@ -5,7 +5,7 @@ Hráč: Honza
 Trust: 2/10
 ---
 > [!infobox] 
-> ![[Sadosu.jpg|portrait+small]]
+> ![|portrait+small](https://raw.githubusercontent.com/JakPik/DND_C2/refs/heads/Images/DND_c2/Images/Sadosu.jpg)
 > # Sadosu
 
 # Popis

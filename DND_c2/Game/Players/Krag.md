@@ -6,7 +6,7 @@ Trust: 4/10
 Class: Barabarian
 ---
 > [!infobox] 
-> ![[Krag.png|portrait+small]]
+> ![|portrait+small](https://raw.githubusercontent.com/JakPik/DND_C2/refs/heads/Images/DND_c2/Images/Krag.png)
 > # Krag
 
 # Popis

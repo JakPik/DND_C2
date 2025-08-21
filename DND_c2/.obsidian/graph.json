@@ -1,0 +1,79 @@
+{
+  "collapse-filter": false,
+  "search": "-tag:#Hide",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#Hráč  ",
+      "color": {
+        "a": 1,
+        "rgb": 774293
+      }
+    },
+    {
+      "query": "tag:#Location  ",
+      "color": {
+        "a": 1,
+        "rgb": 14597501
+      }
+    },
+    {
+      "query": "path:Extras/Statblocks/WildShape  ",
+      "color": {
+        "a": 1,
+        "rgb": 244992
+      }
+    },
+    {
+      "query": "path:Game/NPCs  ",
+      "color": {
+        "a": 1,
+        "rgb": 3949753
+      }
+    },
+    {
+      "query": "tag:#Land  ",
+      "color": {
+        "a": 1,
+        "rgb": 7352868
+      }
+    },
+    {
+      "query": "tag:#Link  ",
+      "color": {
+        "a": 1,
+        "rgb": 5927036
+      }
+    },
+    {
+      "query": "tag:#Quest  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "tag:#Notes  ",
+      "color": {
+        "a": 1,
+        "rgb": 11053224
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": -1.4,
+  "nodeSizeMultiplier": 1.47016632016632,
+  "lineSizeMultiplier": 1.5516632016632,
+  "collapse-forces": true,
+  "centerStrength": 0.408523908523909,
+  "repelStrength": 13.3264033264033,
+  "linkStrength": 1,
+  "linkDistance": 331,
+  "scale": 0.3335699087873383,
+  "close": true
+}

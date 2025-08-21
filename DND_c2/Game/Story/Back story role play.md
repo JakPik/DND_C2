@@ -45,3 +45,5 @@ Brzi nad ránem se blížíš ke Kriegurdu. Byl jsi pověřen Leninthonem, abys 
 
 S osvobozením/pokusem o osvobození vypukne boj.  
 Boj bude zakončený příchodem Leninthona
+
+![dire wolf](https://i.pinimg.com/1200x/30/d6/14/30d61421a3cef7f645acb3445c92c3bc.jpg)

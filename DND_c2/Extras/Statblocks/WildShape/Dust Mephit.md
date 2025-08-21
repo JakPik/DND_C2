@@ -1,7 +1,6 @@
 ---
 tags:
   - WildShape
-  - Hide
 list: "[[Game/Players/Algaar/WildShape|WildShape]]"
 CR: 1/2
 ---
@@ -9,7 +8,7 @@ CR: 1/2
 ```statblock
 layout: WildShape
 name: Dust Mephit
-image: 
+image: https://raw.githubusercontent.com/JakPik/DND_C2/refs/heads/Images/DND_c2/Images/dust_mephit.jpg
 ac: 12
 hp: 17
 cr: 1/2

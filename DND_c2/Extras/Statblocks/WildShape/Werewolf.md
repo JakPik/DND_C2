@@ -8,7 +8,7 @@ CR: "3"
 ```statblock
 layout: WildShape
 name: Werewolf
-image: ![Werewolf](https://i.pinimg.com/736x/0e/74/bd/0e74bd9f6b2b87be59655d6813f95d93.jpg)
+image: https://raw.githubusercontent.com/JakPik/DND_C2/refs/heads/Images/DND_c2/Images/werewolf.jpg
 ac: 11
 hp: 58
 cr: 3

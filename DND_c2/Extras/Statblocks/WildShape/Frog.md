@@ -4,11 +4,10 @@ tags:
 list: "[[Game/Players/Algaar/WildShape|WildShape]]"
 CR: "0"
 ---
-
 ```statblock
 layout: WildShape
 name: Frog
-image: ![frog](https://i.pinimg.com/1200x/fa/4c/fd/fa4cfd88506a73eac5e010870e06ab89.jpg)
+image: https://raw.githubusercontent.com/JakPik/DND_C2/refs/heads/Images/DND_c2/Images/Frog.jpg
 ac: 11
 hp: 1
 cr: 0

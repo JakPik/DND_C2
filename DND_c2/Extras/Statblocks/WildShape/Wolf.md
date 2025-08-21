@@ -7,7 +7,7 @@ CR: 1/4
 ```statblock
 layout: WildShape
 name: Wolf
-image: ![wolf](https://i.pinimg.com/1200x/0d/d2/90/0dd29000537520a2400be7c722cf1fcd.jpg)
+image: https://raw.githubusercontent.com/JakPik/DND_C2/refs/heads/Images/DND_c2/Images/wolf.jpg
 ac: 13 (natural armor)
 hp: 11
 cr: 1/4

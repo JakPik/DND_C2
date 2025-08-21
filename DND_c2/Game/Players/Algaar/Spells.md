@@ -1,0 +1,131 @@
+## Cantrips
+- Control Flames - Rihlilg Letnic
+	- within 5ft cube
+	- Rozšíření ohně 5ft. jedním směrem, pokud je v daném místě něco hořlavého. - Docar Erkuf
+	- Uhašení ohně - Ahfven Ekik Docar
+	- 2x větší nebo menší jas, změna barvy, 1h - Thirku Docar
+	- vague form of a creature, an inanimate object or a location, 1h - Drex Docar Trilvol
+- Druidcraft - Odad Vehafor
+	- Weather Sensor
+	- Bloom - Camlib
+	- Sensory Effect - padající listí, vánek, zvuk zvířete, neškodný sensory effect - Kiwieg Gemuth
+	- Fire Play - zápálí/uhasí svíčku, pochodeň, táborák - Letni Shafaer
+- Elementalism - Relgim
+	- **Backon Air** - Hansa - You create a breeze strong enough to ripple cloth, stir dust, rustle leaves, and close open doors and shutters, all in a 5ft cube.
+	- **Beckon Earth** - Shashti - You create a thin shroud of dust or sand that covers surfaces in a 5ft square are, or you cause a single word to appear in your handwriting in a patch of dirt or sand
+	- **Beckon Fire** - Docar - You create a thin cloud of harmless embers and colored, scented smoke in a 5ft cube. You choose the color and scent, and the embers can light candles, torches, or lamps in that area. The scent lingers for 1 min.
+	- **Beckon Water** - Okraz - You create a spray of cool mist that lightly dampens creatures and objects in a 5ft cube. Alternatively, you create 1 cup of clean water either in an open container or on a surface, and the water evaporates in 1 min.
+	- **Sculpt Element** - Slemon - You cause dirt, sand, fire, smoke, mist, or water that can fit in a 1ft cube to assume a crude shape (such as that of a creature) for 1h
+- Message - Charric
+	- You point toward a creature within range and whisper a message. The target (and only the target) hears the message and can reply in a whisper that only you can hear.
+- Poison Spray - Weyog Brijow
+	- Spray toxic mist 30ft range. 1d12 poison damage
+
+## 1st
+- Absorb Elements - **Ahfven Relgimi**
+	- Reakce na elementální útok – sníží zranění a nabije příští útok daným elementem.
+- Animal Friendship
+- Beast Bond
+- Charm Person
+- Cure wounds - **Seisu Ezoukeic**
+- Detect Magic
+- Detect Poison and Disease
+- Earth Tremor - **Shashti Zhen**
+- Entangle - **Gemuth Egrem**
+	- Sváže nepřátele, 20ft čtverec
+- Faerie Fire
+	- Označí objekty, nebo postavy barevnnou září ve 20ft kostce
+- Fog Cloud - **Bivnix Kaden**
+- Goodberry - **Edrok Svetn**
+- Healing Word
+- Ice Knife
+- Jump
+- Longstrider - **Drong Zhin**
+- Protection from Evil and Good
+- Purify Food and Drink
+- Speak with Animals
+- Thunderwave - **Svantraakul Pacore**
+## 2nd
+- Aid
+- Animal Messenger
+- Augury
+- Barkskin - Raya Molik
+- Continual Flame
+- Darkvision
+- Dust Devil
+- Earthbind
+- Enhance Ability
+- Enlarge/Reduce
+- Find Traps
+- Flame Blade - Letni Cayosin
+- Flaming Sphere
+- Gust of Wind
+- Heat Metal
+- Hold Person
+- Lesser Restoration
+- Locate Animals or Plants
+- Locate Object
+- Moonbeam
+- Pass without Trace
+- Protection from Poison
+- Skywrite
+- Spike Growth
+- Warding Wind
+## 3rd
+- Call Lightning - Relgr Itpro
+- Conjure Animals
+- Daylight
+- Dispel Magic
+- Erupting Earth
+- Flame Arrows
+- Meld into Stone
+- Plant Growth
+- Protection from Energy
+- Revivify
+- Sleet Storm
+- Speak with Plants
+- Tidal Wave
+- Wall of Water
+- Water Breathing - Okraz Trekis
+- Water Walk
+- Wind Wall
+## 4th
+- Blight
+- Charm Monster
+- Confusion
+- Conjure Minor Elementals
+- Conjure Woodland Beings
+- Control Water
+- Divination
+- Dominate Beast
+- Elemental Bane
+- Fire Shield
+- Freedom of Movement
+- Giant Insect
+- Hallucinatory Terrain
+- Ice Storm
+- Locate Creature
+- Polymorph
+- Stone Shape
+- Stoneskin
+- Wall of Fire
+- Watery Sphere
+## 5th
+- Antilife Shell
+- Awaken
+- Commune with Nature
+- Cone of Cold
+- Conjure Elemental
+- Contagion
+- Control Winds
+- Geas
+- Greater Restoration
+- Insect Plague
+- Maelstrom
+- Mass Cure Wounds
+- Planar Binding
+- Reincarnate
+- Scrying
+- Transmute Rock
+- Tree Stride
+- Wall of Stone

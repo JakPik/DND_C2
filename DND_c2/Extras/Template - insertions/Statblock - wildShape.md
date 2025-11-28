@@ -1,7 +1,7 @@
 ```statblock
 layout: WildShape
 name: string
-image: image ref]]
+image: https://raw.githubusercontent.com/JakPik/DND_C2/refs/heads/Images/DND_c2/Images/
 ac: number
 hp: number
 cr: number

@@ -3,10 +3,9 @@ tags:
   - Quest
 Odkoho: Skeldron
 Odkud: Elakdet
-Odměna: 
-Status: NA
+Odměna:
+Status: Done
 ---
-DONE
 ### Popis
 Potřebuju sehnat komponenty pro rituál jenž mi umožní mluvit se Skeldronem
 Komponenty:

@@ -111,8 +111,8 @@ table without id
 	Odměna,
 	Status
 from "Game/Quests"
-SORT choice(Status = "In Progress", 1 , choice(Status = "Abandoned", 2 , choice(Status = "Completed", 3 , choice(Status = "Failed", 4 , "other"))))
-where Status != "NA"
+SORT choice(Status = "Active", 1 , choice(Status = "Abandoned", 2 , choice(Status = "Completed", 3 , choice(Status = "Failed", 4 , "other"))))
+where Status != "NA" and Status != "Done"
 ```
 
 # Společníci

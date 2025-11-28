@@ -24,7 +24,7 @@ Moc jsem neřešil co chtějí, a tak jsme šli za knězem. Ten jim moc nepomohl
 Pak nás nějaká malá holka zavedla za čarovnou babkou. Ta nás občerstvila a nabídla pomoc výměnou za nějakou službičku.
 
 ### Day: 3
-Další den jsme se opět sešli a vydali se do Zipperdamu. Ja šel s nimi ať tam chtěli co tam chtěli. Několik hodin jsme čekali než se Lyba a Tohru vrátí.
+Další den jsme se opět sešli a vydali se do Zipperdamu. Já šel s nimi ať tam chtěli co tam chtěli. Několik hodin jsme čekali než se Lyba a Tohru vrátí.
 
 Hledali někoho jménem Karim.
 

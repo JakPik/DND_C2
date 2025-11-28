@@ -1,0 +1,23 @@
+filters:
+  and:
+    - file.tags.contains("WildShape")
+    - '!file.tags.contains("Link")'
+    - '!file.tags.contains("Hide")'
+formulas:
+  Untitled: ""
+views:
+  - type: cards
+    name: Table
+    order:
+      - file.name
+      - CR
+    sort:
+      - property: CR
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    cardSize: 130
+    imageFit: ""
+    imageAspectRatio: 1
+    rowHeight: medium
+    image: note.image

@@ -1,0 +1,1 @@
+Mám na sobě náhrdelník - nemohu použít wildshape

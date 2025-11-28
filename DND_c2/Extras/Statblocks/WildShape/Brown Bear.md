@@ -3,6 +3,7 @@ tags:
   - WildShape
 list: "[[Game/Players/Algaar/WildShape|WildShape]]"
 CR: "1"
+image: https://raw.githubusercontent.com/JakPik/DND_C2/refs/heads/Images/DND_c2/Images/brown_bear.jpg
 ---
 
 ```statblock

@@ -4,12 +4,13 @@ tags:
   - Hide
 list: "[[Game/Players/Algaar/WildShape|WildShape]]"
 CR:
+image:
 ---
 
 ```statblock
 layout: WildShape
 name: string
-image: 
+image: https://raw.githubusercontent.com/JakPik/DND_C2/refs/heads/Images/DND_c2/Images/
 ac: xx
 hp: xx
 cr: xx

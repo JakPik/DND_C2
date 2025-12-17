@@ -3,7 +3,7 @@ tags:
   - Notes
 date: 14/07/25
 Previous Note: "[[Session_n 2]]"
-Next Note:
+Next Note: "[[Session_n 4]]"
 ---
 
 ### Day: 9
